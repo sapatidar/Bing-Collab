@@ -1,0 +1,11 @@
+server:
+  port: 8080
+spring:
+  data:
+    mongodb:
+      username: spatidar
+      password: spatidar
+      host: localhost
+      port: 27017
+      database: bearcatdb
+      authentication-database: admin
